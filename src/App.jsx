@@ -5,12 +5,12 @@ import Reusablecomponents from './Components/Reusablecomponents'
 import Card from './Components/Card'
 import Footer from './Components/Footer'
 
+
 function App() {
 
 let data = [
 
 {
- 
   icon: 'bi-window m-auto text-primary',
   heading : "Fully Responsive",
   description: "This theme will look great on any device, no matter the size!"
