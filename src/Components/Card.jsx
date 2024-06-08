@@ -45,21 +45,21 @@ function Card() {
                 <div className="row">
                     <div className="col-lg-4">
                         <div className="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img className="img-fluid rounded-circle mb-3" src='src/Components/Img/testimonials-1.jpg' alt="..." />
+                            <img className="img-fluid rounded-circle mb-3" src='https://media.istockphoto.com/id/1262964438/photo/success-happens-the-moment-you-believe-it-will.webp?b=1&s=170667a&w=0&k=20&c=QJ6J4PauzWnFlxba-lgh1AZeXA5G5N0BxKvHv5n3EiE=' alt="..." />
                             <h5>Margaret E.</h5>
                             <p className="font-weight-light mb-0">This is fantastic! Thanks so much guys!</p>
                         </div>
                     </div>
                     <div className="col-lg-4">
                         <div className="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img className="img-fluid rounded-circle mb-3" src='src/Components/Img/testimonials-2.jpg' alt="..." />
+                            <img className="img-fluid rounded-circle mb-3" src='https://media.istockphoto.com/id/1150572112/photo/close-up-of-a-smiling-mid-adult-businesswoman.webp?b=1&s=170667a&w=0&k=20&c=OKBpR4om0BW53XppKnWneTa7QPZ1WfKDwOV1MpnL9us=' alt="..." />
                             <h5>Fred S.</h5>
                             <p className="font-weight-light mb-0">Bootstrap is amazing. Ive been using it to create lots of super nice landing pages.</p>
                         </div>
                     </div>
                     <div className="col-lg-4">
                         <div className="testimonial-item mx-auto mb-5 mb-lg-0">
-                            <img className="img-fluid rounded-circle mb-3" src= 'src/Components/Img/testimonials-3.jpg' alt="..." />
+                            <img className="img-fluid rounded-circle mb-3" src= 'https://media.istockphoto.com/id/2132147060/photo/woman-portrait-and-smile-with-office-confidence-and-work-for-professional-startup-as.webp?b=1&s=170667a&w=0&k=20&c=m8FpwSVYzqv2oBw2SavhqeY5_15NB2Xdf2Bf4h9nIB0=' alt="..." />
                             <h5>Sarah W.</h5>
                             <p className="font-weight-light mb-0">Thanks so much for making these free resources available to us!</p>
                         </div>
